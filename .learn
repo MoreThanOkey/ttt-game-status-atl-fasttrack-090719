@@ -1,5 +1,6 @@
-# Board with winning X in the top row.
-board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
+full_board = ["X", "O", "X", "O", "X", "X", "O", "X", "O"]
+full?(full_board) #=> true
  
-won?(board) #=> [0,1,2]
+incomplete_board = ["X", " ", "X", "O", " ", "X", "O", " ", "O"]
+full?(incomplete_board) #=> false
 
