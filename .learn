@@ -1,1 +1,5 @@
+# Board with winning X in the top row.
+board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
+ 
+won?(board) #=> [0,1,2]
 
