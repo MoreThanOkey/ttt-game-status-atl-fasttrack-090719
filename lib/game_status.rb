@@ -16,7 +16,7 @@ WIN_COMBINATIONS = [
   [2,5,8],  # Right column 
   [0,4,8],  # Right Diagnol
   [2,4,6]  # Left Diagnol
-  ]
+]
   ```
  X | X | X
 -----------
