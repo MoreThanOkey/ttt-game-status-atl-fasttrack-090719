@@ -17,10 +17,3 @@ WIN_COMBINATIONS = [
   [0,4,8],  # Right Diagnol
   [2,4,6]  # Left Diagnol
 ]
-  ```
- X | X | X
------------
-   |   |
------------
-   |   |
-```
